@@ -1,3 +1,3 @@
 # CoffeeMachine
 Coffee machine simulator
-JetBrains Academy's project
+(JetBrains Academy's project)
